@@ -58,7 +58,8 @@ export const SKILLS = [
   },
   {
     name: "Flutter",
-    icon: "devicon-flutter-original colored",
+    svg:
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmorioh.com%2Fp%2F9a9d9cf4ab92&psig=AOvVaw3TF716zFKu5Z1j1UlmZ4D_&ust=1625417180233000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKCkzIGtx_ECFQAAAAAdAAAAABAI",
   },
   {
     name: "Kubernetes",
