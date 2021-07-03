@@ -57,8 +57,8 @@ export const SKILLS = [
     icon: "devicon-firebase-plain",
   },
   {
-    name: "Reactjs",
-    icon: "devicon-react-original colored",
+    name: "Flutter",
+    icon: "devicon-flutter-original colored",
   },
   {
     name: "Kubernetes",
