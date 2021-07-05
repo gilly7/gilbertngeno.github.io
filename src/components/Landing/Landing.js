@@ -14,9 +14,9 @@ const Landing = () => {
             <Typed
               strings={[
                 "Open-Source Enthusiast",
+                "Information Technology Undergrad",
                 "Software Engineer - Android",
                 "Cloud Computing",
-                "Information Technology Undergrad",
                 "Web Developer",
                 "Java/Kotlin",
                 "Capturing Sunsets",

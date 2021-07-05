@@ -1,7 +1,7 @@
 export const FULL_NAME = "Gilbert Ngeno";
 export const RESUME_LINK =
-  "https://drive.google.com/file/d/1Vuxs_VPQmfSJKtjqno5bCkqGopWsMxhE/view?usp=sharing";
-export const FOOTER_TEXT = "Built by Gilbert Ngeno";
+  "https://drive.google.com/file/d/1bTnBQvMjCWHetjPS2u1KCQrJPAuYFCMj/view?usp=sharing";
+export const FOOTER_TEXT = "Built by Gilbert Ng'eno";
 export const SOCIAL_LINKS = [
   {
     name: "Email",
@@ -20,7 +20,7 @@ export const SOCIAL_LINKS = [
   },
   {
     name: "Reddit",
-    icon: "fab fa-lg fa-discord",
+    icon: "fab fa-lg fa-reddit",
     link: "https://reddit.com/Mfalme7",
   },
   {
