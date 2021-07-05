@@ -59,7 +59,7 @@ export const SKILLS = [
   {
     name: "Flutter",
     svg:
-      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmorioh.com%2Fp%2F9a9d9cf4ab92&psig=AOvVaw3TF716zFKu5Z1j1UlmZ4D_&ust=1625417180233000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKCkzIGtx_ECFQAAAAAdAAAAABAI",
+      "https://seekvectors.com/files/download/a712a94bb84b68697d537aa71ac13513.jpg",
   },
   {
     name: "Kubernetes",
@@ -137,7 +137,7 @@ export const WORK = [
     extlink: "https://github.com/gilly7/WhatsTheWeather",
   },
   {
-    title: "random-dune-quotes",
+    title: "Munch It",
     description:
       "A food delivery app developed with flutter with firebase authentication",
     description2: "Nodejs, Expressjs",

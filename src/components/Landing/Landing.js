@@ -15,9 +15,11 @@ const Landing = () => {
               strings={[
                 "Open-Source Enthusiast",
                 "Software Engineer - Android",
+                "Cloud Computing",
                 "Information Technology Undergrad",
                 "Web Developer",
                 "Java/Kotlin",
+                "Capturing Sunsets",
               ]}
               typeSpeed={40}
               backSpeed={50}
