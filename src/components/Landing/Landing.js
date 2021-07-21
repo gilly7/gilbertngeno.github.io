@@ -13,15 +13,14 @@ const Landing = () => {
           <span className="typing">
             <Typed
               strings={[
+                "Software Engineer - Android",
+                "Java/Kotlin",
                 "Open-Source Enthusiast",
                 "Information Technology Undergrad",
-                "Software Engineer - Android",
                 "Cloud Computing",
-                "Web Developer",
-                "Java/Kotlin",
                 "Capturing Sunsets",
               ]}
-              typeSpeed={40}
+              typeSpeed={50}
               backSpeed={50}
               loop
             ></Typed>

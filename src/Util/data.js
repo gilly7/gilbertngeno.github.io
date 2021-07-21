@@ -6,7 +6,7 @@ export const SOCIAL_LINKS = [
   {
     name: "Email",
     icon: "far fa-lg fa-envelope",
-    link: "ngenogilbert07@gmail.com",
+    href="mailto:ngenogilbert07@gmail.com",
   },
   {
     name: "Github",
@@ -19,15 +19,16 @@ export const SOCIAL_LINKS = [
     link: "https://www.linkedin.com/in/gilbert-ngeno-b4290b143/",
   },
   {
-    name: "Reddit",
-    icon: "fab fa-lg fa-reddit",
-    link: "https://reddit.com/Mfalme7",
-  },
-  {
     name: "Twitter",
     icon: "fab fa-lg fa-twitter",
     link: "https://twitter.com/gilbert4_real",
   },
+  {
+    name: "Reddit",
+    icon: "fab fa-lg fa-reddit",
+    link: "https://reddit.com/Mfalme7",
+  },
+  
   {
     name: "Google Developer Profile",
     icon: "fab fa-lg fa-google",
