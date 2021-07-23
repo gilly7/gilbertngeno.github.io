@@ -13,7 +13,7 @@ const Landing = () => {
           <span className="typing">
             <Typed
               strings={[
-                "Software Engineer - Android",
+                "Mobile Developer - Android/ios",
                 "Java/Kotlin",
                 "Open-Source Enthusiast",
                 "Information Technology Undergrad",

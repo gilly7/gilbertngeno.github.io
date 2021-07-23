@@ -1,4 +1,4 @@
-export const FULL_NAME = "Gilbert Ngeno";
+export const FULL_NAME = "Gilbert Ng'eno";
 export const RESUME_LINK =
   "https://drive.google.com/file/d/1bTnBQvMjCWHetjPS2u1KCQrJPAuYFCMj/view?usp=sharing";
 export const FOOTER_TEXT = "Built by Gilbert Ng'eno";
@@ -6,7 +6,7 @@ export const SOCIAL_LINKS = [
   {
     name: "Email",
     icon: "far fa-lg fa-envelope",
-    link: "mailto:ngenogilbert07@gmail.com",
+    link: "ngenogilbert07@gmail.com",
   },
   {
     name: "Github",
