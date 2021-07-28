@@ -6,7 +6,8 @@ export const SOCIAL_LINKS = [
   {
     name: "Email",
     icon: "far fa-lg fa-envelope",
-    link: "ngenogilbert07@gmail.com",
+    link:
+      "https://mail.google.com/mail/?view=cm&fs=1&to=ngenogilbert254@gmail.com",
   },
   {
     name: "Github",
